@@ -1,0 +1,16 @@
+POST http://localhost:80/consumer/dept/add?=&dname=fff多个
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-19T042055.200.json
+
+###
+
+POST http://localhost:8001/dept/add?=&dname=fff多个
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-19T031521.200.json
+
+###
+

@@ -45,6 +45,7 @@ public class DeptController {
     @GetMapping("/discovery")
     public Object discovery(){
         List<String> list=discoveryClient.getServices();
+        System.out.println("************"+list);
         List<ServiceInstance> ltServiceInstance=discoveryClient.getInstances("microservicecloud-dept");
         for(ServiceInstance s:ltServiceInstance){
             System.out.println(s.getServiceId()+"\t"+s.getHost()+"\t"+s.getMetadata()+"\t"+s.getPort()+"\t"+s.getUri());

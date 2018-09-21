@@ -4,7 +4,11 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="551cfb62-b451-414e-aada-215ff43fc570" name="Default" comment="" />
+    <list default="true" id="551cfb62-b451-414e-aada-215ff43fc570" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/com/yue/springcloud/controller/DeptController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/com/yue/springcloud/controller/DeptController.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/microservicecloud-api/target/" />
@@ -62,46 +66,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/pom.xml">
+      <file leaf-file-name="DeptController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/com/yue/springcloud/controller/DeptController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="54" column="20" lean-forward="true" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="81" column="43" selection-start-line="81" selection-start-column="43" selection-end-line="81" selection-end-column="43" />
-              <folding>
-                <element signature="n#modules#0;n#project#0;n#!!top" />
-                <element signature="n#properties#0;n#project#0;n#!!top" />
-                <element signature="n#dependencyManagement#0;n#project#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EurekaServer7001_App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-7001/src/main/java/com/yue/springcloud/EurekaServer7001_App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="735">
+              <caret line="49" column="118" selection-start-line="49" selection-start-column="118" selection-end-line="49" selection-end-column="118" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -116,6 +88,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -136,7 +111,6 @@
         <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/yue/springcloud/cfgbeans/ConfigBean.java" />
         <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/yue/springcloud/controller/DeptController_Consumer.java" />
         <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/yue/springcloud/DeptConsumer80_App.java" />
-        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/com/yue/springcloud/controller/DeptController.java" />
         <option value="$PROJECT_DIR$/microservicecloud-eureka-7001/pom.xml" />
         <option value="$PROJECT_DIR$/microservicecloud-eureka-7001/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8001/pom.xml" />
@@ -144,6 +118,7 @@
         <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/com/yue/springcloud/DeptProvider8001_App.java" />
         <option value="$PROJECT_DIR$/microservicecloud-eureka-7001/src/main/java/com/yue/springcloud/EurekaServer7001_App.java" />
         <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/com/yue/springcloud/controller/DeptController.java" />
       </list>
     </option>
   </component>
@@ -185,14 +160,13 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,6 +225,16 @@
               <item name="microservicecloud-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -276,6 +260,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -481,11 +467,12 @@
       <workItem from="1537327782437" duration="4668000" />
       <workItem from="1537332473651" duration="20269000" />
       <workItem from="1537404439898" duration="7305000" />
+      <workItem from="1537495164870" duration="1726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35633000" />
+    <option name="totallyTimeSpent" value="37359000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -498,6 +485,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -511,16 +499,15 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934713" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297062" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3297062" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" weight="0.3297062" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3297062" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.3297062" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297062" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6525974" visible="true" weight="0.26332623" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6525974" visible="true" weight="0.26599148" />
       <window_info anchor="right" id="Bean Validation" order="4" weight="0.32995737" />
       <window_info id="Web" order="3" sideWeight="0.5048701" side_tool="true" weight="0.26066098" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -530,6 +517,7 @@
       <window_info anchor="bottom" id="Database Console" order="8" weight="0.3297062" />
       <window_info anchor="bottom" id="REST Client" order="8" weight="0.34711644" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3297062" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297062" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -552,6 +540,13 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-7001/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -587,9 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -832,13 +824,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/com/yue/springcloud/controller/DeptController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/yue/springcloud/controller/DeptController_Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -864,15 +849,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
+        <state relative-caret-position="399">
           <caret line="81" column="43" selection-start-line="81" selection-start-column="43" selection-end-line="81" selection-end-column="43" />
           <folding>
             <element signature="n#modules#0;n#project#0;n#!!top" />
@@ -884,7 +866,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-7001/src/main/java/com/yue/springcloud/EurekaServer7001_App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
+        <state relative-caret-position="323">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -894,15 +876,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="54" column="20" lean-forward="true" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+        <state relative-caret-position="1026">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        <state relative-caret-position="261">
+          <caret line="16" column="67" lean-forward="true" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/com/yue/springcloud/controller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="118" selection-start-line="49" selection-start-column="118" selection-end-line="49" selection-end-column="118" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

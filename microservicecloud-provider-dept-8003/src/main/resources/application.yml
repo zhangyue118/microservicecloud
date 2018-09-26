@@ -37,7 +37,3 @@ info:
   company.name: www.yue.com
   build.artifactId: $project.artifactId$
   build.version: $project.version$
-
-
-
-

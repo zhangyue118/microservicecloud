@@ -35,4 +35,3 @@ public class DeptClientServiceFallbackFactory implements FallbackFactory<DeptCli
         };
     }
 }
-

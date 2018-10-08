@@ -17,7 +17,7 @@ zuul:
   routes:
     mydept.serviceId: microservicecloud-dept
     mydept.path: /mydept/**
-#  多个“*”，单个具体
+#  原真实服务名忽略  多个“*”，单个具体
   ignored-services: microservicecloud-dept
   prefix: /yue
 
